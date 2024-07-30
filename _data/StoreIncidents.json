@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 50,
 		"karmatype": "Neutral"
 	},
 	{
@@ -347,7 +347,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -386,7 +386,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "backpack",
+		"abr": "backpack1",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
